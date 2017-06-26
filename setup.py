@@ -24,7 +24,7 @@ def read(*names, **kwargs):
 
 setup(
     name='check-pypi-name-cli',
-    version='0.1.0',
+    version='0.2.0',
     license='BSD',
     description='A command line tool that checks if a package name is reserved or in use on PyPI.',
     long_description='%s\n%s' % (
